@@ -1,0 +1,91 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand{
+    background-color: blue;
+    border: 1px solid rgb(206, 18, 18);
+    font-style: italic;
+    font-display: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    padding: 7px;
+    border-radius: 200px;
+}
+
+.navbar{
+    background-color: #ececec !important;
+}
+.navbar ul li{
+    font-size: 12px;
+    padding: 0px 17px;
+    color:aqua;
+}
+
+.img-fluid{
+    width: 200px;
+    height: 60px;
+    margin-top: 14px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+
+.search-bar{
+    background-color: #87d9ee;
+    width: 700px;
+    height: 60px;
+    margin-top: 14px;
+    margin-left: 20px;
+    border-radius: 30px;
+    padding: 13px 19px;
+}
+
+.serach-container button{
+    background-color: #1f16a3;
+    border-radius: 30px;
+    width: 150px;
+    height: 60px;
+    margin-top: 14px;
+    margin-left: 20px;
+    padding: 13px 19px;
+}
+.top-banner img{
+    margin-left: 200px;
+    padding: 50px;
+    border-radius: 200px;
+    text-align: center;
+}
+.fea img{
+    width: 30px;
+    height: 30px;
+    padding: 4px;
+    margin: 8px;
+    align-items: center;
+
+}
+
+.card-body:hover{
+    background-color: #9666e9;
+}
+.card-title{
+    font-size: 14px;
+    margin: 12px;
+}
+.card-price{
+    color: f57224;
+    font-size: 18px;
+}
+.card-text{
+    font-size: 12px;
+}
+.flashSale-container img, .martonmall img{
+    height: 200px;
+}
+.btn {
+    border-radius: 50px;
+    padding: 10px;
+    border: 4px solid blue;
+}
